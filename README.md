@@ -51,8 +51,8 @@ A powerful OWASP ZAP extension that automatically detects software versions in H
 | Provider | API Endpoint | Rate Limits | Authentication |
 |----------|--------------|-------------|----------------|
 | **NVD** | https://services.nvd.nist.gov/rest/json/cves/2.0 | 5 req/sec (no key), 50 req/sec (with key) | Optional API Key |
-| **Vulners** | https://vulners.com/api/v3/ | 5 req/sec | Optional API Key |
-| **VulDB** | https://vuldb.com/?api | 4 req/sec | Optional API Key |
+| **Vulners** | https://vulners.com/api/v3/ | 5 req/sec |   API Key |
+| **VulDB** | https://vuldb.com/?api | 4 req/sec |  API Key |
 
 ### Setup
 
