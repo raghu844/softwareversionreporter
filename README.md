@@ -23,7 +23,7 @@ A powerful OWASP ZAP extension that automatically detects software versions in H
 
 1. **Clone the repository** into ZAP's addOns folder:
    ```bash
-   git clone https://github.com/raghu844/softwareversionreporter.git zap-extensions/addOns/softwareversionreporter
+   git clone https://github.com/rp-cybertech/softwareversionreporter.git zap-extensions/addOns/softwareversionreporter
    ```
 
 2. **Build and deploy** the add-on:
@@ -116,9 +116,9 @@ We welcome contributions!
 
 ## 📞 Support
 
-- **GitHub**: [raghu844](https://github.com/raghu844)
+- **GitHub**: [rp-cybertech](https://github.com/rp-cybertech)
 - **LinkedIn**: [Raghavendra Patil](https://www.linkedin.com/in/raghavendra-patil-8a0330197)
-- **Issues**: [GitHub Issues](https://github.com/raghu844/softwareversionreporter/issues)
+- **Issues**: [GitHub Issues](https://github.com/rp-cybertech/softwareversionreporter/issues)
 
 ## 📄 License
 
